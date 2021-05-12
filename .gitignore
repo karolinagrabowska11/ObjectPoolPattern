@@ -1,0 +1,8 @@
+.benchmarks/
+.idea/
+.pytest_cache/
+venv/
+ObjectPools/__pycache__/
+tests/.benchmarks/
+tests/.pytest_cache/
+tests/__pycache__
